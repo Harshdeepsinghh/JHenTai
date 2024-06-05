@@ -1,11 +1,11 @@
 name: jhentai
 description: A flutter app for E-Hentai/EXHentai
 
-publish_to: 'none'
+publish_to: "none"
 version: 7.4.13+187
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
@@ -114,8 +114,6 @@ dev_dependencies:
   drift_dev: 2.14.1
   build_runner: ^2.1.8
   flutter_launcher_icons: 0.11.0
-
-
 
 flutter:
   uses-material-design: true
